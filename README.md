@@ -1,4 +1,4 @@
-# AI-Powered Paper Correction using Generative AI  
+# AI-Powered-Paper-Correction-using-Generative-AI  
 
 ## 📌 Overview  
 This project automates the evaluation of student answer sheets using **Generative AI**. It extracts text from PDFs, compares student responses with teacher-provided answers, and generates AI-driven feedback along with scores. The system supports multiple **LLMs (Large Language Models)**, including **Gemini API** and **Ollama (LLaMA 3.2:3B)**, offering flexibility in AI evaluation.  
